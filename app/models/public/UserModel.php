@@ -1,7 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: PC
- * Date: 11/25/2018
- * Time: 3:21 PM
- */
+namespace App\Models\Public;
+class UserModel{
+
+}
